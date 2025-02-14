@@ -1,0 +1,2 @@
+git config --global user.name camilafeg
+git config --global user.email camilafeg22@gmail.com
